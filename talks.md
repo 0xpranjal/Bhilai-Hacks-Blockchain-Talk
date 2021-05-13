@@ -1,17 +1,17 @@
-# Blockchain Workshop at NIT-R
+# Blockchain Workshop at Bhilai Hacks
 
 
 ![GitHub followers](https://img.shields.io/github/followers/Bhard27?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Bhard27?style=social)
 
-<img src="https://raw.githubusercontent.com/Bhard27/Blockchain-workshop/main/Nitr-workshop.jpeg?token=AMFAV32N5DAGR2QHE74DABTAHAVLW" height=550 width = 550>
+<img src="https://raw.githubusercontent.com/Bhard27/Bhilai-Hacks-Blockchain-Talk/main/bhilaihacks-poster.jpg" height=550 width = 550>
 
 ### About
-My session at NIT - Rourkela tech club, [WebWiz](https://webwiznitr.xyz) about **Blockchain, Ethereum and Smart Contracts developement**, on 20th February 2021.
+My session at Bhilai Hacks, [Bhillai Hacks](https://webwiznitr.xyz) about **Blockchain, Ethereum and Smart Contracts development**, on 13th May 2021.
 
 
 </details>
 
-### [Post Link](https://www.instagram.com/p/CLYoKmClqH3/)
+### [Post Link](https://www.instagram.com/p/COs55GbJuyk/)
 
-### [Recording Link](https://youtu.be/U2NeybpSbNA)
+### [Recording Link](https://www.youtube.com/watch?v=i_t5LVlczTg&ab_channel=BhilaiHacks)
