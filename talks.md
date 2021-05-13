@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/Bhard27/Bhilai-Hacks-Blockchain-Talk/main/bhilaihacks-poster.jpg" height=550 width = 550>
 
 ### About
-My session at Bhilai Hacks, [Bhillai Hacks](https://webwiznitr.xyz) about **Blockchain, Ethereum and Smart Contracts development**, on 13th May 2021.
+My session at Bhilai Hacks, [Bhillai Hacks](https://bhilaihacks.co/) about **Blockchain, Ethereum and Smart Contracts development**, on 13th May 2021.
 
 
 </details>
