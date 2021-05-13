@@ -21,4 +21,4 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Bhard27/Blockchain-workshop/main/Nitr-workshop.jpeg?token=AMFAV32N5DAGR2QHE74DABTAHAVLW" height=550 width = 550>
+<img src="https://raw.githubusercontent.com/Bhard27/Bhilai-Hacks-Blockchain-Talk/main/bhilaihacks-poster.jpg" height=550 width = 550>
